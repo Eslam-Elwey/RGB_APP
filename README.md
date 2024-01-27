@@ -13,5 +13,5 @@ Button2 : Change Mode
 
 There Are 2 Modes 
 1. Normal Mode : Change Colours When Pressing Button1 Which Cause Falling Edge On EXI0
-  and Print Color Name on LCD
+  and Print Current Color Name on LCD
 3. Showroom Mode : Change Between Colours Gradually When Pressing Button2 
