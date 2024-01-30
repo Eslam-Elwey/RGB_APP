@@ -7,7 +7,7 @@ APP : RGB_APP
 
 Timer0 Operates In Fast PWM Mode (Scaler 8)
 Timer1 Operates In FAST PWM 8 BIT Mode (Scaler 8)
-TImer2 Operates In Normal Mode to Set Interrupt Time (Scaler 1024)
+Timer2 Operates In Normal Mode to Set Interrupt Time (Scaler 1024)
 Button1 : Change Colours 
 Button2 : Change Mode
 
