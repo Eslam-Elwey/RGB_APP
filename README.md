@@ -1,5 +1,5 @@
 # RGB_APP
-Usiing MCU ATMEGA32  
+Using MCU ATMEGA32  
 HAL : RGB / LCD
 MCAL : Timers / External Interrupts 
 Services : Timer Services 
